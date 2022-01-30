@@ -16,6 +16,11 @@ public class Main {
 
         Planet1 planet1=new Planet1();
         planet1.color="green";
-        planet1.size="151651561;"
+        planet1.size="151651561";
+
+        // moon 2 feature
+        moon2 montero=new moon2();
+        montero.color="red";
+        montero.radius="4564564";
     }
 }
