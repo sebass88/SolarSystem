@@ -13,5 +13,10 @@ public class Main {
         Solana.heat="6776767367kj";
         Solana.radius="6473647634km";
         Solana.temp="122131243c";
+
+        //moon1 feature
+        moon1 montero=new moon1();
+        montero.color="blue";
+        montero.radius="1321554";
     }
 }
