@@ -12,6 +12,9 @@ public class Main {
         SUN Solana=new SUN();
         Solana.heat="6776767367kj";
         Solana.radius="6473647634km";
+
+        Solana.temp=122131243;
+
         Solana.temp="122131243c";
 
 
@@ -28,6 +31,7 @@ public class Main {
         Planet1 planet1=new Planet1();
         planet1.color="green";
         planet1.size="151651561;"
+
 
 
     }
